@@ -29,8 +29,8 @@
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp c2bf6fe6-955b-4d70-ab7a-7dfe8e088e5e))
   (pad "1" thru_hole circle (at -2.44094 0) (size 1.397 1.397) (drill 0.8128) (layers "*.Cu" "*.Mask") (tstamp 8c9d5683-95b8-4308-b068-3f71eae98273))
   (pad "2" thru_hole circle (at 2.44094 0) (size 1.397 1.397) (drill 0.8128) (layers "*.Cu" "*.Mask") (tstamp baf98025-16d9-4729-b47b-e624af8923c7))
-  (model "discret/crystal_hc18u_vertical.wrl"
-    (offset (xyz 0 0 0))
+  (model "${KICAD7_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC49-4H_Vertical.step"
+    (offset (xyz -2.5 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
