@@ -1,4 +1,4 @@
-26844417957714153
+26847957843002959
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106434,3 +106434,17 @@ DIP DIL DIP32 DIL32
 0
 32
 32
+xt_eth
+set_dont_get_it
+
+
+0
+0
+0
+xt_eth
+tme
+
+
+0
+0
+0
