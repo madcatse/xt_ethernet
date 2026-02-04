@@ -121,7 +121,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "gerber")
+			(outputdirectory "gerber/")
 		)
 	)
 	(net 0 "")
@@ -24890,7 +24890,7 @@
 			)
 		)
 	)
-	(gr_text "Based on following projects\ngithub.com/skiselev/isa8_eth\ngithub.com/spark2k06/RTC8088\nThank you for an amazing cards!\n\nISA 8-bit Ethernet Controller/RTC (TTH edition)\nPCB board ver 1.0 by MadCat\nhttps://github.com/madcatse/xt_ethernet\nhttps://t.me/madcatse\nhttps://www.youtube.com/@MadCatSE"
+	(gr_text "Based on following projects\ngithub.com/skiselev/isa8_eth\ngithub.com/spark2k06/RTC8088\nThank you for amazing cards!\n\nISA 8-bit Ethernet Controller/RTC (TTH edition)\nPCB board ver 1.0 by MadCat\nhttps://github.com/madcatse/xt_ethernet\nhttps://t.me/madcatse\nhttps://www.youtube.com/@MadCatSE"
 		(at 128.4732 107.5944 0)
 		(layer "B.SilkS")
 		(uuid "00000000-0000-0000-0000-00006083bae8")
