@@ -24743,7 +24743,7 @@
 		)
 	)
 	(gr_text "DS12885"
-		(at 162.306 90.678 0)
+		(at 165.2524 109.8804 0)
 		(layer "F.SilkS")
 		(uuid "42f20499-afb5-42f0-b40f-5d0add738e5d")
 		(effects
@@ -24822,7 +24822,7 @@
 		)
 	)
 	(gr_text "ATF16V8B"
-		(at 165.3998 109.4232 0)
+		(at 162.2552 90.7796 0)
 		(layer "F.SilkS")
 		(uuid "88c7f58c-ed13-40da-9d9c-ef5d1c9564ac")
 		(effects
