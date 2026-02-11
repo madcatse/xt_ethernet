@@ -1045,7 +1045,7 @@
       "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "ISA8_Ethernet.step",
+      "step": "../../../../../Desktop/ISA8_Ethernet.step",
       "svg": "",
       "vrml": ""
     },
